@@ -8,4 +8,4 @@
 - [6. feladatsor: Nevezetes folytonos eloszlások](A3_6.pdf)
 
 
-# [1. mintazárthelyi](Mintazh1_matA3j.pdf)
+# [1. mintazárthelyi](Mintazh1_matA3j .pdf)
