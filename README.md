@@ -6,6 +6,7 @@
 - [4. feladatsor: Valószínűségi változók várható értéke, szórása, eloszlás- és sűrűségfüggvénye](A3_4.pdf)
 - [5. feladatsor: Nevezetes diszkrét eloszlások](A3_5.pdf)
 - [6. feladatsor: Nevezetes folytonos eloszlások](A3_6.pdf)
+- [7. feladatsor: Statisztikta I.](A3_7.pdf)
 
 
 # [1. mintazárthelyi](Mintazh1_matA3j.pdf)
