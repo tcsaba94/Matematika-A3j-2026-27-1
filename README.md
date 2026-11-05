@@ -7,6 +7,7 @@
 - [5. feladatsor: Nevezetes diszkrét eloszlások](A3_5.pdf)
 - [6. feladatsor: Nevezetes folytonos eloszlások](A3_6.pdf)
 - [7. feladatsor: Statisztikta I.](A3_7.pdf)
+- [8. feladatsor: Statisztika II.](A3_8.pdf) [(megoldás)](A3_8_mo.pdf)
 
 
 # [1. mintazárthelyi](Mintazh1_matA3j.pdf)
