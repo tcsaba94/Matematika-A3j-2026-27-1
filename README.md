@@ -8,6 +8,9 @@
 - [6. feladatsor: Nevezetes folytonos eloszlások](A3_6.pdf)
 - [7. feladatsor: Statisztikta I.](A3_7.pdf)
 - [8. feladatsor: Statisztika II.](A3_8.pdf) [(megoldás)](A3_8_mo.pdf)
+- [9. feladatsor: Differenciálegyenletek I.](A3_9.pdf)
+- [10. feladatsor: Differenciálegyenletek II.](A3_10.pdf)
+- [11. feladatsor: Differenciálegyenletek III.](A3_11.pdf)
 
 
 # [1. mintazárthelyi](Mintazh1_matA3j.pdf)
